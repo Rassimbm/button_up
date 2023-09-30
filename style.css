@@ -1,0 +1,12 @@
+div {
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    background-color: gainsboro;
+    color: green;
+    border: 10px green;
+    border-radius: 10px;
+    text-align: center;
+}
