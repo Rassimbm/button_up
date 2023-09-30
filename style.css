@@ -1,12 +1,34 @@
-div {
+form {
+    height: 110px;
+    background-color: azure;
     padding: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-input {
+button {
+    display: block;
+    margin: 10px;
+
+}
+
+.bttn1 {
+    width: 100px;
     background-color: gainsboro;
-    color: green;
-    border: 10px green;
-    border-radius: 10px;
-    text-align: center;
+    color: rgb(41, 243, 169);
+    border: 2px solid;
+    border-radius: 50px;
+} 
+
+.bttn2 {
+    color: white;
+    background-color: rgb(41, 243, 169);
+    border: hidden;
+    border-radius: 50%;
+}
+
+.bttn3 {
+    width: 120px;
+    background-color: royalblue;
+    color: white;
+    box-shadow: 3px 5px 5px black;
 }
